@@ -253,7 +253,7 @@ Results:
 
 ### privacy
 
-Retrieves the ratings for the app. Currently only for US App Store. Options:
+Retrieves the ratings for the app. Currently only for UK App Store. Options:
 
 * `id`: the iTunes "trackId" of the app, for example `553834731` for Candy Crush Saga.
 
